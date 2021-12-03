@@ -1,6 +1,9 @@
 # jeux-ui
-![download](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/download.svg),https://github.com/Gigorgu/jeux-ui
+![download](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/download.svg)
 ![documentaion](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/docum-btn.svg)
+
+[download]: https://github.com/Gigorgu/jeux-ui
+[documentaion]: https://github.com/Gigorgu/jeux-ui
 #### 4.6.3 g.update
 
 
