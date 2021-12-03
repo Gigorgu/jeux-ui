@@ -15,3 +15,7 @@
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gigorgu/jeux-ui/jeui/jeui.min.css" >
 ```
+#### Javascript
+```html
+<script src="https://cdn.jsdelivr.net/gh/gigorgu/jeux-ui/jeui/jeui.min.js"></script>
+```
