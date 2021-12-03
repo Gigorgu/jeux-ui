@@ -1,5 +1,6 @@
 # jeux-ui
-![build](https://img.shields.io/travis/markcellus/scroll-js)
+![download](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/download.svg)
+![documentaion](https://raw.githubusercontent.com/Gigorgu/jeux-ui/main/branch/docum-btn.svg)
 #### 4.6.3 g.update
 
 
