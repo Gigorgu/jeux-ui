@@ -1,9 +1,13 @@
 # jeux-ui
-## 4.6.3 g.update
+#### 4.6.3 g.update
 
 
-### forward features
+#### forward features
 
 * rename work
 * removed jquery and all frameworks
 * new styles in old ideas
+
+#### How to connect
+
+# jsdelivr
