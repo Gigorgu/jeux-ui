@@ -11,3 +11,7 @@
 #### How to connect
 
 # jsdelivr
+#### Stylesheet
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gigorgu/jeux-ui/jeui/jeui.min.css" >
+```
