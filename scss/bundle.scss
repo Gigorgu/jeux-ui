@@ -678,3 +678,35 @@ input[type="radio"] {
     z-index: inherit;
     position: absolute;
 }
+
+
+[je-nc] {
+
+    display: grid;
+    width: 100%;
+    max-width: 300px;
+    justify-content: start;
+    margin: 5px;
+    grid-template-columns: auto;
+    grid-gap: 5px;
+    flex-wrap: wrap;
+    &[je-nc="rb"] {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+    }
+
+}
+
+.notify {
+    width: 100%;
+    padding: 1em;
+    border-radius: 1em;
+    > .header {
+        display: flex;
+        justify-content: start;
+        > h1 {
+            margin-right: auto;
+        }
+    }
+}

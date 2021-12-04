@@ -148,3 +148,23 @@ catch {
 
 
 
+
+
+
+try {
+    remove_button();
+}catch {
+    alert('some error with remove button')
+}
+
+
+function remove_button() {
+    const lol = document.querySelectorAll('[close]');
+    lol.forEach((abuse) => {
+        abuse.addEventListener('click', () => {
+            let pefkbj = abuse.getAttribute('close');
+            let asfljk = document.querySelector(pefkbj);
+            asfljk.remove();
+        });
+    });
+}
