@@ -695,6 +695,21 @@ input[type="radio"] {
         right: 0;
         bottom: 0;
     }
+    &[je-nc="lb"] {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+    &[je-nc="rt"] {
+        position: fixed;
+        right: 0;
+        top: 0;
+    }
+    &[je-nc="lt"] {
+        position: fixed;
+        left: 0;
+        top: 0;
+    }
 
 }
 
@@ -709,4 +724,34 @@ input[type="radio"] {
             margin-right: auto;
         }
     }
+}
+
+[container] {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: start;
+    flex-direction: row;
+}
+[aside] {
+    width: 100%;
+    max-width: 300px;
+}
+[main] {
+    width: 100%;
+}
+
+.cform {
+    transition-duration: 0.5s ;
+    &:focus {
+        border: 1px solid rgba($color: $primary_col, $alpha: 1.0);
+        box-shadow: 0px 0px 0px 4px rgba($color: $primary_col, $alpha: .2);
+    }
+    &[type=search] {
+        transition-duration: 0.5s ;
+    }
+}
+.br0 {
+    border-radius: 0;
 }
