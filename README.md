@@ -1,5 +1,5 @@
 # jeux-ui
-[download 4.6.3](https://github.com/Gigorgu/jeux-ui/releases/tag/jeux)
+[download](https://github.com/Gigorgu/jeux-ui/releases/tag/jeux)
 
 ## 4.6.4 update 
 ### Features
