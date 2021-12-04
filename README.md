@@ -1,5 +1,34 @@
 # jeux-ui
 [downloads](https://github.com/Gigorgu/jeux-ui/releases/tag/jeux)
+### 4.6.4.1 fix 
+### Features
+* minimal fixes
+* added container after mont
+* added cfroms
+## Some featurs
+
+```html
+<div class="container-bottom"> <!-- This is search form-->
+    <label for="DefaultForm2">
+        Form search
+    </label>
+    <input id="DefaultForm2" type="search" placeholder="Search form" class="cform br0 ">
+    <button class="btn primary br0 cform">Search</button>
+</div>
+```
+
+```html
+<div container=""> <!-- main container -->
+    <div aside=""> <!-- aside container -->
+
+
+    </div>
+    <div main=""> <!-- main container --> <!-- when aside == false , main gets 100% width-->
+
+
+    </div>
+</div>
+```
 
 ## 4.6.4 update 
 ### Features
@@ -8,7 +37,7 @@
 * Added re-log system
 
 ## Mini documentation
-#### Mini documentation
+
 ```html
 <div je-nc="rb"></div> <!-- for create container-->
 ```
