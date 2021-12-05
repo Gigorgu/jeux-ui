@@ -4,33 +4,46 @@
 ### 4.6.4.2 pre-realese 
 #### Features 
 * Custom select
-
-## Show Features 
-
 ```html
 <div role="select" id="" class="select">
     <input class="select__input" type="hidden" name="">
     <button id="customSelect1" aria-roledescription="button" type="button" role="button" class="select__head">Select</button>
     <ul class="select__list" style="display: none;">
         <li class="select__item">Select item 1</li>
-        <li class="select__item">Select item 2</li>
-        <li class="select__item">Select item 3</li>
-        <li class="select__item">Select item 4</li>
-        <li class="select__item">Select item 5</li>
-        <li class="select__item">Select item 6</li>
-        <li class="select__item">Select item 7</li>
-        <li class="select__item">Select item 8</li>
-        <li class="select__item">Select item 1</li>
-        <li class="select__item">Select item 2</li>
-        <li class="select__item">Select item 3</li>
-        <li class="select__item">Select item 4</li>
-        <li class="select__item">Select item 5</li>
-        <li class="select__item">Select item 6</li>
-        <li class="select__item">Select item 7</li>
-        <li class="select__item">Select item 8</li>
     </ul>
 </div>
 ```
+* Spoilers
+```html
+
+ <div class="spoiler_group">
+    <button class="spoiler">
+        Lorem, ipsum.
+    </button>
+    <div class="spoiler_hidden">
+        ...
+    </div>
+</div>
+```
+* Accordions update
+```html
+<ul id="my-accordion" class="accordionjs">
+    <li>
+        <div> Accordion Title</div>
+        <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nobis?
+        </div>
+    </li>
+</ul>
+```
+* Carousel update
+```html
+<div class="carousel owl-carousel">
+    <div> ... </div>
+</div>
+```
+
+
 ### 4.6.4.1 fix 
 ### Features
 * minimal fixes
