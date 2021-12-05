@@ -1,5 +1,36 @@
 # jeux-ui
 [downloads](https://github.com/Gigorgu/jeux-ui/releases/tag/jeux)
+
+### 4.6.4.2 pre-realese 
+#### Features 
+* Custom select
+
+## Show Features 
+
+```html
+<div role="select" id="" class="select">
+    <input class="select__input" type="hidden" name="">
+    <button id="customSelect1" aria-roledescription="button" type="button" role="button" class="select__head">Select</button>
+    <ul class="select__list" style="display: none;">
+        <li class="select__item">Select item 1</li>
+        <li class="select__item">Select item 2</li>
+        <li class="select__item">Select item 3</li>
+        <li class="select__item">Select item 4</li>
+        <li class="select__item">Select item 5</li>
+        <li class="select__item">Select item 6</li>
+        <li class="select__item">Select item 7</li>
+        <li class="select__item">Select item 8</li>
+        <li class="select__item">Select item 1</li>
+        <li class="select__item">Select item 2</li>
+        <li class="select__item">Select item 3</li>
+        <li class="select__item">Select item 4</li>
+        <li class="select__item">Select item 5</li>
+        <li class="select__item">Select item 6</li>
+        <li class="select__item">Select item 7</li>
+        <li class="select__item">Select item 8</li>
+    </ul>
+</div>
+```
 ### 4.6.4.1 fix 
 ### Features
 * minimal fixes
