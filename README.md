@@ -36,7 +36,7 @@
 * Added close-button for all elems
 * Added re-log system
 
-## Mini documentation
+## Some featurs
 
 ```html
 <div je-nc="rb"></div> <!-- for create container-->
